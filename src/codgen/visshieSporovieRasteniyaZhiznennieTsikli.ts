@@ -1,0 +1,36 @@
+/* eslint-disable */
+import image_4929_362124 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhKukushkinLyon/vzrosloeRastenie.svg';
+import image_4929_362125 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhKukushkinLyon/vzrosloeRastenieMuzhskoe.svg';
+import image_4929_362126 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhKukushkinLyon/vzrosloeRastenieZhenskoe.svg';
+import image_4929_362128 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhKukushkinLyon/pokolenieSporofit.svg';
+import image_4929_362130 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhKukushkinLyon/spora.svg';
+import image_4929_362131 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhKukushkinLyon/protonemaMolodoeRastenie.svg';
+import image_4929_362132 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhSfagnum/vzrosloeRasteniePokolenieGametofit.svg';
+import image_4929_362133 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhSfagnum/vzrosloeRastenieMuzhskoe.svg';
+import image_4929_362134 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhSfagnum/vzrosloeRastenieZhenskoe.svg';
+import image_4929_362136 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhSfagnum/pokolenieSporofit.svg';
+import image_4929_362137 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhSfagnum/spora.svg';
+import image_4929_362138 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhSfagnum/protonemaMolodoeRastenie.svg';
+import image_4929_362139 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhMarshantsiya/vzrosloeRastenieGametofit.svg';
+import image_4929_362140 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhMarshantsiya/vzrosloeRastenieZhenskoe.svg';
+import image_4929_362141 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhMarshantsiya/vzrosloeRastenieMuzhskoe.svg';
+import image_4929_362142 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhMarshantsiya/organiMuzhskie.svg';
+import image_4929_362143 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhMarshantsiya/organiZhenskie.svg';
+import image_4929_362145 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhMarshantsiya/korobochkaSoSporamiPokolenieSporofit.svg';
+import image_4929_362146 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhMarshantsiya/spora.svg';
+import image_4929_362147 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhMarshantsiya/protonemaMolodoeRastenie.svg';
+import image_4929_362150 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/paporotnikShchitovnikMuzhskoi/sorus.svg';
+import image_4929_362151 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/paporotnikShchitovnikMuzhskoi/spora.svg';
+import image_4929_362152 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/paporotnikShchitovnikMuzhskoi/zarostokPokolenieGametofit.svg';
+import image_4929_362153 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/paporotnikShchitovnikMuzhskoi/muzhskieOrgani.svg';
+import image_4929_362190 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/paporotnikShchitovnikMuzhskoi/molodoeRastenie.svg';
+import image_4929_362191 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/sosna/vzrosloeRastenie/sporofit.svg';
+import image_4950_385050 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/paporotnikShchitovnikMuzhskoi/vzrosloeRasteniePokolenieSporofit.svg';
+import image_4950_385051 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/paporotnikShchitovnikMuzhskoi/rezultatOplodotvoreniya.svg';
+import image_4950_385052 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/paporotnikShchitovnikMuzhskoi/zhenskieOrgani.svg';
+import image_4950_385053 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhMarshantsiya/rezultatOplodotvoreniya.svg';
+import image_4950_385054 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhSfagnum/rezultatOplodotvoreniya.svg';
+import image_4950_385055 from './images/sberClassBioAssets/visshieSporovieRasteniyaZhiznennieTsikli/mokhKukushkinLyon/rezultatOplodotvorenie.svg';
+
+const visshieSporovieRasteniyaZhiznennieTsikli = {"mokhKukushkinLyon":{"vzrosloeRastenie":image_4929_362124,"vzrosloeRastenieMuzhskoe":image_4929_362125,"vzrosloeRastenieZhenskoe":image_4929_362126,"pokolenieSporofit":image_4929_362128,"spora":image_4929_362130,"protonemaMolodoeRastenie":image_4929_362131,"rezultatOplodotvorenie":image_4950_385055},"mokhSfagnum":{"vzrosloeRasteniePokolenieGametofit":image_4929_362132,"vzrosloeRastenieMuzhskoe":image_4929_362133,"vzrosloeRastenieZhenskoe":image_4929_362134,"pokolenieSporofit":image_4929_362136,"spora":image_4929_362137,"protonemaMolodoeRastenie":image_4929_362138,"rezultatOplodotvoreniya":image_4950_385054},"mokhMarshantsiya":{"vzrosloeRastenieGametofit":image_4929_362139,"vzrosloeRastenieZhenskoe":image_4929_362140,"vzrosloeRastenieMuzhskoe":image_4929_362141,"organiMuzhskie":image_4929_362142,"organiZhenskie":image_4929_362143,"korobochkaSoSporamiPokolenieSporofit":image_4929_362145,"spora":image_4929_362146,"protonemaMolodoeRastenie":image_4929_362147,"rezultatOplodotvoreniya":image_4950_385053},"paporotnikShchitovnikMuzhskoi":{"sorus":image_4929_362150,"spora":image_4929_362151,"zarostokPokolenieGametofit":image_4929_362152,"muzhskieOrgani":image_4929_362153,"molodoeRastenie":image_4929_362190,"vzrosloeRasteniePokolenieSporofit":image_4950_385050,"rezultatOplodotvoreniya":image_4950_385051,"zhenskieOrgani":image_4950_385052},"sosna":{"vzrosloeRastenie":{"sporofit":image_4929_362191}}};
+export default visshieSporovieRasteniyaZhiznennieTsikli;

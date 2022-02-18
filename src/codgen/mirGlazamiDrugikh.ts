@@ -1,0 +1,34 @@
+/* eslint-disable */
+import image_1184_157382 from './images/sberClassBioAssets/mirGlazamiDrugikh/sad/7.png';
+import image_1311_114935 from './images/sberClassBioAssets/mirGlazamiDrugikh/tsvetokUltrafiolet.png';
+import image_2011_1099503 from './images/sberClassBioAssets/mirGlazamiDrugikh/sad/1Gekkon.png';
+import image_2011_732180 from './images/sberClassBioAssets/mirGlazamiDrugikh/sad/6Orel.png';
+import image_2011_771624 from './images/sberClassBioAssets/mirGlazamiDrugikh/prud/7Molyusk.png';
+import image_2011_771655 from './images/sberClassBioAssets/mirGlazamiDrugikh/prud/7Krevetka.png';
+import image_2203_369341 from './images/sberClassBioAssets/mirGlazamiDrugikh/prud/5Krevetka.svg';
+import image_2203_375815 from './images/sberClassBioAssets/mirGlazamiDrugikh/prud/3Krevetka.svg';
+import image_2203_674339 from './images/sberClassBioAssets/mirGlazamiDrugikh/sad/5Orel.svg';
+import image_2203_678399 from './images/sberClassBioAssets/mirGlazamiDrugikh/sad/4Orel.svg';
+import image_573_162670 from './images/sberClassBioAssets/mirGlazamiDrugikh/sad/1.png';
+import image_573_162671 from './images/sberClassBioAssets/mirGlazamiDrugikh/sad/8.png';
+import image_573_162672 from './images/sberClassBioAssets/mirGlazamiDrugikh/sad/6.png';
+import image_573_162673 from './images/sberClassBioAssets/mirGlazamiDrugikh/sad/5.png';
+import image_573_162674 from './images/sberClassBioAssets/mirGlazamiDrugikh/sad/4.png';
+import image_573_162675 from './images/sberClassBioAssets/mirGlazamiDrugikh/sad/3.png';
+import image_573_162676 from './images/sberClassBioAssets/mirGlazamiDrugikh/sad/2.png';
+import image_591_310447 from './images/sberClassBioAssets/mirGlazamiDrugikh/prud/7.png';
+import image_591_310448 from './images/sberClassBioAssets/mirGlazamiDrugikh/prud/6.png';
+import image_591_310449 from './images/sberClassBioAssets/mirGlazamiDrugikh/prud/5.png';
+import image_591_310450 from './images/sberClassBioAssets/mirGlazamiDrugikh/prud/4.png';
+import image_591_310451 from './images/sberClassBioAssets/mirGlazamiDrugikh/prud/3.png';
+import image_591_310452 from './images/sberClassBioAssets/mirGlazamiDrugikh/prud/2.png';
+import image_591_310453 from './images/sberClassBioAssets/mirGlazamiDrugikh/prud/1.png';
+import image_606_77973 from './images/sberClassBioAssets/mirGlazamiDrugikh/delfin.png';
+import image_606_86806 from './images/sberClassBioAssets/mirGlazamiDrugikh/riba.png';
+import image_606_99184 from './images/sberClassBioAssets/mirGlazamiDrugikh/pchela.png';
+import image_610_70937 from './images/sberClassBioAssets/mirGlazamiDrugikh/kot.png';
+import image_610_82184 from './images/sberClassBioAssets/mirGlazamiDrugikh/tsvetok.png';
+import image_610_87925 from './images/sberClassBioAssets/mirGlazamiDrugikh/golub.png';
+
+const mirGlazamiDrugikh = {"sad":{"1":image_573_162670,"2":image_573_162676,"3":image_573_162675,"4":image_573_162674,"5":image_573_162673,"6":image_573_162672,"7":image_1184_157382,"8":image_573_162671,"1Gekkon":image_2011_1099503,"6Orel":image_2011_732180,"5Orel":image_2203_674339,"4Orel":image_2203_678399},"tsvetokUltrafiolet":image_1311_114935,"prud":{"1":image_591_310453,"2":image_591_310452,"3":image_591_310451,"4":image_591_310450,"5":image_591_310449,"6":image_591_310448,"7":image_591_310447,"7Molyusk":image_2011_771624,"7Krevetka":image_2011_771655,"5Krevetka":image_2203_369341,"3Krevetka":image_2203_375815},"delfin":image_606_77973,"riba":image_606_86806,"pchela":image_606_99184,"kot":image_610_70937,"tsvetok":image_610_82184,"golub":image_610_87925};
+export default mirGlazamiDrugikh;

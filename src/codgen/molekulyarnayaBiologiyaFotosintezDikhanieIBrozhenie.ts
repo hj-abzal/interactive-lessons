@@ -1,0 +1,31 @@
+/* eslint-disable */
+import image_2644_460673 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/drozhzhi.svg';
+import image_2644_460674 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/fotosistemaI/3D.svg';
+import image_2644_460675 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/fotosistemaIi/3D.svg';
+import image_2644_460676 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/tsitokhrom/3D.svg';
+import image_2644_460677 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/fotosistemaI/2D.svg';
+import image_2644_460678 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/fotosistemaIi/2D.svg';
+import image_2644_460679 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/tsitokhrom/2D.svg';
+import image_2666_479421 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/perenoschikPc/3D.svg';
+import image_2667_479423 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/perenoschikPc/2D.svg';
+import image_2667_479424 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/fermentFerredoksinNadFreduktaza/3D.svg';
+import image_2667_479425 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/fermentFerredoksinNadFreduktaza/2D.svg';
+import image_2667_479426 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/perenoschikPq/3D.svg';
+import image_2667_479427 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/perenoschikPq/2D.svg';
+import image_2667_479428 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/atFsintaza/3D.svg';
+import image_2667_479450 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/atFsintaza/2D.svg';
+import image_2667_483110 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/tilakoid.svg';
+import image_2667_483111 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/solntse.svg';
+import image_2667_483113 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/kvantSveta.svg';
+import image_2671_479442 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/fermentNozhnitsi/zakriti.svg';
+import image_2671_479443 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/fermentNozhnitsi/otkriti.svg';
+import image_2888_510246 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/kompleksIv.svg';
+import image_2888_510247 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/kompleksIii.svg';
+import image_2888_510416 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/kompleksIi.svg';
+import image_2888_510417 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/kompleksI.svg';
+import image_2888_510419 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/vnutrennyayaMembranaMitokhondrii/bezKompleksov.svg';
+import image_3091_503535 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/kustMalini.svg';
+import image_330_8329 from './images/sberClassBioAssets/molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie/lizosoma2D.png';
+
+const molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie = {"drozhzhi":image_2644_460673,"fotosistemaI":{"3D":image_2644_460674,"2D":image_2644_460677},"fotosistemaIi":{"3D":image_2644_460675,"2D":image_2644_460678},"tsitokhrom":{"3D":image_2644_460676,"2D":image_2644_460679},"perenoschikPc":{"3D":image_2666_479421,"2D":image_2667_479423},"fermentFerredoksinNadFreduktaza":{"3D":image_2667_479424,"2D":image_2667_479425},"perenoschikPq":{"3D":image_2667_479426,"2D":image_2667_479427},"atFsintaza":{"3D":image_2667_479428,"2D":image_2667_479450},"tilakoid":image_2667_483110,"solntse":image_2667_483111,"kvantSveta":image_2667_483113,"fermentNozhnitsi":{"zakriti":image_2671_479442,"otkriti":image_2671_479443},"kompleksIv":image_2888_510246,"kompleksIii":image_2888_510247,"kompleksIi":image_2888_510416,"kompleksI":image_2888_510417,"vnutrennyayaMembranaMitokhondrii":{"bezKompleksov":image_2888_510419},"kustMalini":image_3091_503535,"lizosoma2D":image_330_8329};
+export default molekulyarnayaBiologiyaFotosintezDikhanieIBrozhenie;

@@ -1,0 +1,17 @@
+import 'core-js/stable';
+import 'regenerator-runtime/runtime';
+import * as React from "react";
+import * as ReactDOM from "react-dom";
+import {AppWrapperWithoutConstructor} from '@/app/app-wrapper-without-constructor';
+import App from '@/lessons/_MODULE_NAME_';
+
+import {initI18n} from '@/utils/i18n';
+
+initI18n();
+
+ReactDOM.render(
+    <AppWrapperWithoutConstructor>
+       <App />
+     </AppWrapperWithoutConstructor>,
+    document.getElementById("react-root")
+);

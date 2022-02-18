@@ -1,0 +1,33 @@
+/* eslint-disable */
+import image_1449_101127 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/aktiniya.png';
+import image_1449_98963 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/prilipala.png';
+import image_1449_99015 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/kosatka.png';
+import image_1449_99063 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/minoga.png';
+import image_1449_99068 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/okun.png';
+import image_1449_99225 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/rakotshelnik.png';
+import image_1451_102889 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/akula.png';
+import image_1451_103132 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/kit.png';
+import image_1451_103303 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/zhyoludi.png';
+import image_1483_140468 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/obektiSravneniya/kit.png';
+import image_1483_161290 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/obektiSravneniya/akula.png';
+import image_1483_161291 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/obektiSravneniya/kosatka.png';
+import image_1483_161292 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/obektiSravneniya/okun.png';
+import image_1483_161293 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/obektiSravneniya/aktiniya.png';
+import image_1483_161294 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/obektiSravneniya/rakotshelnik.png';
+import image_1483_161453 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/obektiSravneniya/minoga.png';
+import image_1483_161608 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/obektiSravneniya/morskoiZhyolud.png';
+import image_1497_142018 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/fon/9.png';
+import image_1497_143147 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/fon/8.png';
+import image_1497_144276 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/fon/7.png';
+import image_1497_146353 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/fon/6.png';
+import image_1497_146354 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/fon/5.png';
+import image_1497_148543 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/fon/4.png';
+import image_1497_150487 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/fon/3.png';
+import image_1497_152089 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/fon/2.png';
+import image_1497_152090 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/fon/1.png';
+import image_1497_269140 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/ostrov/fon.png';
+import image_1498_269717 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/ostrov/poverkh.png';
+import image_1498_287444 from './images/sberClassBioAssets/ekosistemaOtkritiiOkean/obektiSravneniya/prilipala.png';
+
+const ekosistemaOtkritiiOkean = {"aktiniya":image_1449_101127,"prilipala":image_1449_98963,"kosatka":image_1449_99015,"minoga":image_1449_99063,"okun":image_1449_99068,"rakotshelnik":image_1449_99225,"akula":image_1451_102889,"kit":image_1451_103132,"zhyoludi":image_1451_103303,"obektiSravneniya":{"kit":image_1483_140468,"akula":image_1483_161290,"kosatka":image_1483_161291,"okun":image_1483_161292,"aktiniya":image_1483_161293,"rakotshelnik":image_1483_161294,"minoga":image_1483_161453,"morskoiZhyolud":image_1483_161608,"prilipala":image_1498_287444},"fon":{"1":image_1497_152090,"2":image_1497_152089,"3":image_1497_150487,"4":image_1497_148543,"5":image_1497_146354,"6":image_1497_146353,"7":image_1497_144276,"8":image_1497_143147,"9":image_1497_142018},"ostrov":{"fon":image_1497_269140,"poverkh":image_1498_269717}};
+export default ekosistemaOtkritiiOkean;

@@ -1,0 +1,31 @@
+/* eslint-disable */
+import image_2504_416090 from './images/sberClassBioAssets/anatomiya/organi/legkie.svg';
+import image_2504_416091 from './images/sberClassBioAssets/anatomiya/organi/selezenka.svg';
+import image_2504_416092 from './images/sberClassBioAssets/anatomiya/organi/pechen.svg';
+import image_2504_416093 from './images/sberClassBioAssets/anatomiya/organi/kosti.svg';
+import image_2504_416094 from './images/sberClassBioAssets/anatomiya/organi/mishtsi.svg';
+import image_2504_416095 from './images/sberClassBioAssets/anatomiya/organi/mozg.svg';
+import image_2504_416096 from './images/sberClassBioAssets/anatomiya/organi/pochki.svg';
+import image_2504_416097 from './images/sberClassBioAssets/anatomiya/organi/mochevoiPuzir.svg';
+import image_2504_416098 from './images/sberClassBioAssets/anatomiya/organi/krovenosnayaSistema.svg';
+import image_2504_416099 from './images/sberClassBioAssets/anatomiya/organi/nervnayaSistema.svg';
+import image_2504_416100 from './images/sberClassBioAssets/anatomiya/organi/kishechnik.svg';
+import image_2504_416101 from './images/sberClassBioAssets/anatomiya/organi/zheludok.svg';
+import image_2504_417418 from './images/sberClassBioAssets/anatomiya/chelovek/vseOrgani.svg';
+import image_2504_425100 from './images/sberClassBioAssets/anatomiya/chelovek/mishechnayaSistema.svg';
+import image_2504_426718 from './images/sberClassBioAssets/anatomiya/chelovek/legkie.svg';
+import image_2504_431825 from './images/sberClassBioAssets/anatomiya/chelovek/kishechnik.svg';
+import image_2504_439549 from './images/sberClassBioAssets/anatomiya/organi/serdtse.svg';
+import image_2504_444770 from './images/sberClassBioAssets/anatomiya/chelovek/serdtse.svg';
+import image_2749_481637 from './images/sberClassBioAssets/anatomiya/chelovek/bronkhi.svg';
+import image_2749_486231 from './images/sberClassBioAssets/anatomiya/chelovek/sosudi.svg';
+import image_2749_489660 from './images/sberClassBioAssets/anatomiya/chelovek/zheludok.svg';
+import image_2749_494690 from './images/sberClassBioAssets/anatomiya/chelovek/mochevoiPuzir.svg';
+import image_4047_260436 from './images/sberClassBioAssets/anatomiya/chelovek/matka.svg';
+import image_4092_258566 from './images/sberClassBioAssets/anatomiya/organi/matka.png';
+import image_4103_270695 from './images/sberClassBioAssets/anatomiya/tsiklSerdtsa/zhZhSokrashcheni.svg';
+import image_4103_270696 from './images/sberClassBioAssets/anatomiya/tsiklSerdtsa/ppSokrashcheni.svg';
+import image_4103_270697 from './images/sberClassBioAssets/anatomiya/tsiklSerdtsa/rasslableno.svg';
+
+const anatomiya = {"organi":{"legkie":image_2504_416090,"selezenka":image_2504_416091,"pechen":image_2504_416092,"kosti":image_2504_416093,"mishtsi":image_2504_416094,"mozg":image_2504_416095,"pochki":image_2504_416096,"mochevoiPuzir":image_2504_416097,"krovenosnayaSistema":image_2504_416098,"nervnayaSistema":image_2504_416099,"kishechnik":image_2504_416100,"zheludok":image_2504_416101,"serdtse":image_2504_439549,"matka":image_4092_258566},"chelovek":{"vseOrgani":image_2504_417418,"mishechnayaSistema":image_2504_425100,"legkie":image_2504_426718,"kishechnik":image_2504_431825,"serdtse":image_2504_444770,"bronkhi":image_2749_481637,"sosudi":image_2749_486231,"zheludok":image_2749_489660,"mochevoiPuzir":image_2749_494690,"matka":image_4047_260436},"tsiklSerdtsa":{"zhZhSokrashcheni":image_4103_270695,"ppSokrashcheni":image_4103_270696,"rasslableno":image_4103_270697}};
+export default anatomiya;

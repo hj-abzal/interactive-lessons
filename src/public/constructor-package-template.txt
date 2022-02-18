@@ -1,0 +1,26 @@
+import 'core-js/stable';
+import 'regenerator-runtime/runtime';
+import * as React from "react";
+import * as ReactDOM from "react-dom";
+import {AppWrapper} from '@/app/app-wrapper';
+import {ConstructorScenarioComponent} from '@/components/constructor/scenario/component';
+import {createLesson} from '@/components/lesson-container';
+import {initI18n} from '@/utils/i18n';
+
+initI18n();
+
+const Scenario = () => (
+    <ConstructorScenarioComponent
+        namespaceSlug="_NAMESPACE_SLUG_"
+        scenarioSlug="_SCENARIO_SLUG_"
+    />
+)
+
+const App = createLesson(Scenario, '_NAMESPACE_SLUG_-_SCENARIO_SLUG_');
+
+ReactDOM.render(
+    <AppWrapper>
+       <App />
+     </AppWrapper>,
+    document.getElementById("react-root")
+);

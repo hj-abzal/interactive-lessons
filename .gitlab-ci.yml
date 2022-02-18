@@ -1,0 +1,88 @@
+
+default:
+  image: node:14-alpine
+  before_script:
+    - apk add openssh
+    - apk add rsync
+    - apk add zip
+    - mkdir ~/.ssh
+    - cat $TESTING_SSH_KEY >> ~/.ssh/id_rsa
+    - chmod 600 ~/.ssh/id_rsa
+    - chmod 777 ./devops/deploy.sh
+
+stages:
+  - lint
+#  - deploy-branch
+  - deploy-testing
+#  - deploy-packages
+#  - deploy-storybook
+
+lint-job:
+  stage: lint
+  script:
+    - yarn install --frozen-lockfile
+    - yarn lint:ci
+    - yarn test:ci
+  cache:
+    key: $CI_COMMIT_SHA
+    paths:
+      - node_modules/
+
+#deploy-branch:
+#  stage: deploy-branch
+#  artifacts:
+#    paths:
+#      - dist/
+#  cache:
+#    key: $CI_COMMIT_SHA
+#    paths:
+#      - node-modules/
+#  script:
+#    - yarn build:testing
+#    - ./devops/deploy.sh update-branch-stand $CI_COMMIT_BRANCH
+
+deploy-testing:
+  stage: deploy-testing
+  only:
+    - master
+  artifacts:
+    paths:
+      - dist/
+  cache:
+    key: $CI_COMMIT_SHA
+    paths:
+      - node-modules/
+  script:
+    - yarn build:testing
+    - ./devops/deploy.sh update-testing
+
+#deploy-packages:
+#  stage: deploy-packages
+#  only:
+#    - master
+#  artifacts:
+#    paths:
+#      - dist/packages/
+#  cache:
+#    key: $CI_COMMIT_SHA
+#    paths:
+#      - node-modules/
+#  script:
+#    - yarn install --frozen-lockfile
+#    - yarn build:packages
+#    - ./devops/deploy.sh update-packages
+
+#deploy-storybook:
+#  stage: deploy-storybook
+#  only:
+#    - master
+#  artifacts:
+#    paths:
+#      - storybook-static/
+#  cache:
+#    key: $CI_COMMIT_SHA
+#    paths:
+#      - node-modules/
+#  script:
+#    - yarn storybook:build
+#    - ./devops/deploy.sh update-storybook
